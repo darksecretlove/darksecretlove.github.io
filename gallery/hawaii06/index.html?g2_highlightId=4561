@@ -1,0 +1,303 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+var fileLoadingImage = "http://darksecretlove.com/gallery/modules/lightbox/images/loading.gif";
+var fileBottomNavCloseImage = "http://darksecretlove.com/gallery/modules/lightbox/images/closelabel.gif";
+var fileBottomNavZoomImage = "http://darksecretlove.com/gallery/modules/lightbox/images/expand.gif";
+</script>
+<link rel="stylesheet" type="text/css" href="../modules/core/data/gallery.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/icons/iconpacks/silk/icons.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/lightbox/lightbox.css"/>
+<link rel="alternate" type="application/rss+xml" title="Photo RSS" href="../main.php?g2_view=slideshow.SlideshowMediaRss&amp;g2_itemId=4504"/>
+<script type="text/javascript" src="../main.php?g2_view=core.CombinedJavascript&amp;g2_key=1771dd8ae1cf59d4a6dffb396a481590"></script>
+<script type="text/javascript" src="../modules/lightbox/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="../main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Hawai'i '06</title>
+<link rel="stylesheet" type="text/css" href="../themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=4504" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<div id="gsHeader">
+<img src="../themes/greypop/images/title.jpg" width="500" height="100" alt=""/>
+</div>
+<div id="gsNavBar" class="gcBorder1">
+<div class="gbSystemLinks">
+<span class="block-core-SystemLink">
+<a href="http://darksecretlove.com/gallery/main.php?g2_view=core.UserAdmin&amp;g2_subView=core.UserLogin&amp;g2_return=%2Fgallery%2Fhawaii06%2F">Login</a>
+</span>
+
+<span class="block-core-SystemLink">
+<a href="http://darksecretlove.com/gallery/main.php?g2_view=core.UserAdmin&amp;g2_subView=register.UserSelfRegistration&amp;g2_return=%2Fgallery%2Fhawaii06%2F">Register</a>
+</span>
+
+
+
+</div>
+<div class="gbBreadCrumb">
+<div class="block-core-BreadCrumb">
+<a href="../main.php?g2_highlightId=4504" class="BreadCrumb-1">
+Gallery</a>
+<span class="BreadCrumb-2">
+Hawai'i '06</span>
+</div>
+</div>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td>
+<div id="gsContent" class="gcBorder1">
+<div class="gbBlock gcBackground1">
+<table style="width: 100%">
+<tr>
+<td>
+<h2> Hawai'i '06 </h2>
+</td>
+</tr>
+</table>
+</div>
+<div class="gbBlock">
+<table id="gsThumbMatrix" width="100%">
+<tr valign="top">
+<td class="giAlbumCell gcBackground1"
+style="width: 33%">
+<div>
+<a href="hawaii06sunday/index.html?g2_highlightId=4822">
+<img src="../d/4807-7/hawaii06sunday.jpg" width="150" height="100" class="giThumbnail" alt="Sunday: Waikoloa Beach Resort"/>
+</a>
+</div>
+
+<p class="giTitle">
+Album: Sunday: Waikoloa Beach Resort
+</p>
+<p class="giDescription">
+A walkthrough of the Hilton properties.  Great weather, lawns, swimming with the dolphins...
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 01/01/2007
+</div>
+<div class="size summary">
+Size: 50 items
+</div>
+<div class="viewCount summary">
+Views: 631
+</div>
+</div>
+</td>
+<td class="giAlbumCell gcBackground1"
+style="width: 33%">
+<div>
+<a href="hawaii06monday/index.html?g2_highlightId=4797">
+<img src="../d/4788-7/hawaii06monday.jpg" width="150" height="100" class="giThumbnail" alt="Monday: Night shots"/>
+</a>
+</div>
+
+<p class="giTitle">
+Album: Monday: Night shots
+</p>
+<p class="giDescription">
+Nighttime at the Hilton Beach Resort, after Giftmas dinner.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 01/01/2007
+</div>
+<div class="size summary">
+Size: 6 items
+</div>
+<div class="viewCount summary">
+Views: 583
+</div>
+</div>
+</td>
+<td class="giAlbumCell gcBackground1"
+style="width: 33%">
+<div>
+<a href="hawaii06tuesday/index.html?g2_highlightId=4778">
+<img src="../d/4771-6/hawaii06tuesday.jpg" width="150" height="99" class="giThumbnail" alt="Tuesday: Kona"/>
+</a>
+</div>
+
+<p class="giTitle">
+Album: Tuesday: Kona
+</p>
+<p class="giDescription">
+This was before we headed south and went snorkeling.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 01/01/2007
+</div>
+<div class="size summary">
+Size: 5 items
+</div>
+<div class="viewCount summary">
+Views: 546
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giAlbumCell gcBackground1"
+style="width: 33%">
+<div>
+<a href="hawaii06laupahoehoe/index.html?g2_highlightId=4743">
+<img src="../d/4728-6/hawaii06laupahoehoe.jpg" width="150" height="100" class="giThumbnail" alt="Wednesday: Laupahoehoe Point"/>
+</a>
+</div>
+
+<p class="giTitle">
+Album: Wednesday: Laupahoehoe Point
+</p>
+<p class="giDescription">
+Gorgeous.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 01/01/2007
+</div>
+<div class="size summary">
+Size: 18 items
+</div>
+<div class="viewCount summary">
+Views: 629
+</div>
+</div>
+</td>
+<td class="giAlbumCell gcBackground1"
+style="width: 33%">
+<div>
+<a href="hawaii06akaka/index.html?g2_highlightId=4716">
+<img src="../d/4701-7/hawaii06akaka.jpg" width="150" height="100" class="giThumbnail" alt="Wednesday: Akaka Falls"/>
+</a>
+</div>
+
+<p class="giTitle">
+Album: Wednesday: Akaka Falls
+</p>
+<p class="giDescription">
+Rainforest time.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 01/01/2007
+</div>
+<div class="size summary">
+Size: 10 items
+</div>
+<div class="viewCount summary">
+Views: 613
+</div>
+</div>
+</td>
+<td class="giAlbumCell gcBackground1"
+style="width: 33%">
+<div>
+<a href="hawaii06volcano/index.html?g2_highlightId=4665">
+<img src="../d/4650-7/hawaii06volcano.jpg" width="150" height="100" class="giThumbnail" alt="Wednesday:  Hawai'i Volcanoes National Park"/>
+</a>
+</div>
+
+<p class="giTitle">
+Album: Wednesday:  Hawai'i Volcanoes National Park
+</p>
+<p class="giDescription">
+If you're willing to make the 7 mile trek across treacherous terrain (the second half in darkness), you can get closer to the lava flows.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 01/01/2007
+</div>
+<div class="size summary">
+Size: 22 items
+</div>
+<div class="viewCount summary">
+Views: 645
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giAlbumCell gcBackground1"
+style="width: 33%">
+<div>
+<a href="hawaii06thursday/index.html?g2_highlightId=4584">
+<img src="../d/4569-7/hawaii06thursday.jpg" width="150" height="100" class="giThumbnail" alt="Thursday: Sunset at Anaeho'omalu Beach"/>
+</a>
+</div>
+
+<p class="giTitle">
+Album: Thursday: Sunset at Anaeho'omalu Beach
+</p>
+<p class="giDescription">
+Snorkeling, sailboats, and sunset.  We saw a sea turtle while snorkeling.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 01/01/2007
+</div>
+<div class="size summary">
+Size: 37 items
+</div>
+<div class="viewCount summary">
+Views: 630
+</div>
+</div>
+</td>
+<td class="giAlbumCell gcBackground1"
+style="width: 33%">
+<div>
+<a href="hawaii06friday/index.html?g2_highlightId=4533">
+<img src="../d/4517-7/hawaii06friday.jpg" width="150" height="98" class="giThumbnail" alt="Friday: Kana'a Beach"/>
+</a>
+</div>
+
+<p class="giTitle">
+Album: Friday: Kana'a Beach
+</p>
+<p class="giDescription">
+You can see Maui in the distance from here.  And feral kitty cats.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 01/01/2007
+</div>
+<div class="size summary">
+Size: 22 items
+</div>
+<div class="viewCount summary">
+Views: 609
+</div>
+</div>
+</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+</div>
+    
+
+<div id="gsPages" class="gbBlock gcBackground1">
+<div class="block-core-Pager">
+Page:
+<span>
+1
+</span>
+</div>
+</div>
+
+  
+
+</div>
+</td>
+</tr>
+</table>
+<div id="gsFooter">
+</div>
+  </div>
+
+
+</body>
+</html>

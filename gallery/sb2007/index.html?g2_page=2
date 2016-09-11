@@ -1,0 +1,333 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+var fileLoadingImage = "http://darksecretlove.com/gallery/modules/lightbox/images/loading.gif";
+var fileBottomNavCloseImage = "http://darksecretlove.com/gallery/modules/lightbox/images/closelabel.gif";
+var fileBottomNavZoomImage = "http://darksecretlove.com/gallery/modules/lightbox/images/expand.gif";
+</script>
+<link rel="stylesheet" type="text/css" href="../modules/core/data/gallery.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/icons/iconpacks/silk/icons.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/lightbox/lightbox.css"/>
+<link rel="alternate" type="application/rss+xml" title="Photo RSS" href="../main.php?g2_view=slideshow.SlideshowMediaRss&amp;g2_itemId=3909"/>
+<script type="text/javascript" src="../main.php?g2_view=core.CombinedJavascript&amp;g2_key=1771dd8ae1cf59d4a6dffb396a481590"></script>
+<script type="text/javascript" src="../modules/lightbox/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="../main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Santa Barbara 2007</title>
+<link rel="stylesheet" type="text/css" href="../themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=3909" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<div id="gsHeader">
+<img src="../themes/greypop/images/title.jpg" width="500" height="100" alt=""/>
+</div>
+<div id="gsNavBar" class="gcBorder1">
+<div class="gbSystemLinks">
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=slideshow.Slideshow&amp;g2_itemId=3909"> Slideshow </a>
+</span>
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=core.UserLogin&amp;g2_return=%252Fgallery%252Fsb2007%252F%253Fg2_page%253D2%2526">Login</a>
+</span>
+
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=register.UserSelfRegistration&amp;g2_return=%252Fgallery%252Fsb2007%252F%253Fg2_page%253D2%2526">Register</a>
+</span>
+
+
+
+</div>
+<div class="gbBreadCrumb">
+<div class="block-core-BreadCrumb">
+<a href="../main.php?g2_highlightId=3909" class="BreadCrumb-1">
+Gallery</a>
+<span class="BreadCrumb-2">
+Santa Barbara 2007</span>
+</div>
+</div>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td>
+<div id="gsContent" class="gcBorder1">
+<div class="gbBlock gcBackground1">
+<table style="width: 100%">
+<tr>
+<td>
+<h2> Santa Barbara 2007 </h2>
+</td>
+</tr>
+</table>
+</div>
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=4000" class="next">next</a><a href="index.html?g2_highlightId=4012" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=3946" class="first">first</a>    <a href="index.html?g2_highlightId=3946" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div class="gbBlock">
+<table id="gsThumbMatrix" width="100%">
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_1419.jpg.html">
+<img src="../d/3950-8/IMG_1419.jpg" width="100" height="150" class="giThumbnail" alt="IMG_1419"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_1419
+</p>
+<p class="giDescription">
+IMG_1419
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 08/06/2007
+</div>
+<div class="viewCount summary">
+Views: 79
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_1420.jpg.html">
+<img src="../d/3953-8/IMG_1420.jpg" width="150" height="100" class="giThumbnail" alt="IMG_1420"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_1420
+</p>
+<p class="giDescription">
+IMG_1420
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 08/06/2007
+</div>
+<div class="viewCount summary">
+Views: 85
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_1424.jpg.html">
+<img src="../d/3956-8/IMG_1424.jpg" width="100" height="150" class="giThumbnail" alt="IMG_1424"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_1424
+</p>
+<p class="giDescription">
+IMG_1424
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 08/07/2007
+</div>
+<div class="viewCount summary">
+Views: 82
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_1425.jpg.html">
+<img src="../d/3959-8/IMG_1425.jpg" width="150" height="100" class="giThumbnail" alt="IMG_1425"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_1425
+</p>
+<p class="giDescription">
+IMG_1425
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 08/07/2007
+</div>
+<div class="viewCount summary">
+Views: 84
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_1426.jpg.html">
+<img src="../d/3962-8/IMG_1426.jpg" width="150" height="100" class="giThumbnail" alt="IMG_1426"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_1426
+</p>
+<p class="giDescription">
+IMG_1426
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 08/07/2007
+</div>
+<div class="viewCount summary">
+Views: 91
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_1427.jpg.html">
+<img src="../d/3965-8/IMG_1427.jpg" width="150" height="100" class="giThumbnail" alt="IMG_1427"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_1427
+</p>
+<p class="giDescription">
+IMG_1427
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 08/07/2007
+</div>
+<div class="viewCount summary">
+Views: 73
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_1428.jpg.html">
+<img src="../d/3968-8/IMG_1428.jpg" width="150" height="100" class="giThumbnail" alt="IMG_1428"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_1428
+</p>
+<p class="giDescription">
+IMG_1428
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 08/07/2007
+</div>
+<div class="viewCount summary">
+Views: 82
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_1429.jpg.html">
+<img src="../d/3971-8/IMG_1429.jpg" width="150" height="100" class="giThumbnail" alt="IMG_1429"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_1429
+</p>
+<p class="giDescription">
+IMG_1429
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 08/07/2007
+</div>
+<div class="viewCount summary">
+Views: 77
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_1430.jpg.html">
+<img src="../d/3974-8/IMG_1430.jpg" width="150" height="100" class="giThumbnail" alt="IMG_1430"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_1430
+</p>
+<p class="giDescription">
+IMG_1430
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 08/07/2007
+</div>
+<div class="viewCount summary">
+Views: 81
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+    
+
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=4000" class="next">next</a><a href="index.html?g2_highlightId=4012" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=3946" class="first">first</a>    <a href="index.html?g2_highlightId=3946" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div id="gsPages" class="gbBlock gcBackground1">
+<div class="block-core-Pager">
+Page:
+<span>
+<a href="index.html?g2_page=1">1</a>
+</span>
+<span>
+2
+</span>
+<span>
+<a href="index.html?g2_highlightId=4000">3</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=4012">4</a>
+</span>
+</div>
+</div>
+
+  
+
+</div>
+</td>
+</tr>
+</table>
+<div id="gsFooter">
+</div>
+  </div>
+
+
+</body>
+</html>

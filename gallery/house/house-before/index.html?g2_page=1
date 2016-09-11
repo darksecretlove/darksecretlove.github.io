@@ -1,0 +1,332 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+var fileLoadingImage = "http://darksecretlove.com/gallery/modules/lightbox/images/loading.gif";
+var fileBottomNavCloseImage = "http://darksecretlove.com/gallery/modules/lightbox/images/closelabel.gif";
+var fileBottomNavZoomImage = "http://darksecretlove.com/gallery/modules/lightbox/images/expand.gif";
+</script>
+<link rel="stylesheet" type="text/css" href="../../modules/core/data/gallery.css"/>
+<link rel="stylesheet" type="text/css" href="../../modules/icons/iconpacks/silk/icons.css"/>
+<link rel="stylesheet" type="text/css" href="../../modules/lightbox/lightbox.css"/>
+<link rel="alternate" type="application/rss+xml" title="Photo RSS" href="../../main.php?g2_view=slideshow.SlideshowMediaRss&amp;g2_itemId=5344"/>
+<script type="text/javascript" src="../../main.php?g2_view=core.CombinedJavascript&amp;g2_key=1771dd8ae1cf59d4a6dffb396a481590"></script>
+<script type="text/javascript" src="../../modules/lightbox/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="../../main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Before</title>
+<link rel="stylesheet" type="text/css" href="../../themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=5344" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<div id="gsHeader">
+<img src="../../themes/greypop/images/title.jpg" width="500" height="100" alt=""/>
+</div>
+<div id="gsNavBar" class="gcBorder1">
+<div class="gbSystemLinks">
+<span class="block-core-SystemLink">
+<a href="../../main.php?g2_view=slideshow.Slideshow&amp;g2_itemId=5344"> Slideshow </a>
+</span>
+<span class="block-core-SystemLink">
+<a href="../../main.php?g2_view=core.UserAdmin&amp;g2_subView=core.UserLogin&amp;g2_return=%252Fgallery%252Fhouse%252Fhouse-before%252F%253Fg2_page%253D1">Login</a>
+</span>
+
+<span class="block-core-SystemLink">
+<a href="../../main.php?g2_view=core.UserAdmin&amp;g2_subView=register.UserSelfRegistration&amp;g2_return=%252Fgallery%252Fhouse%252Fhouse-before%252F%253Fg2_page%253D1">Register</a>
+</span>
+
+
+
+</div>
+<div class="gbBreadCrumb">
+<div class="block-core-BreadCrumb">
+<a href="../../main.php?g2_highlightId=5319" class="BreadCrumb-1">
+Gallery</a>
+<a href="../index.html?g2_highlightId=5344" class="BreadCrumb-2">
+House</a>
+<span class="BreadCrumb-3">
+Before</span>
+</div>
+</div>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td>
+<div id="gsContent" class="gcBorder1">
+<div class="gbBlock gcBackground1">
+<table style="width: 100%">
+<tr>
+<td>
+<h2> Before </h2>
+</td>
+</tr>
+</table>
+</div>
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last no-previous">
+    <a href="index.html?g2_highlightId=5385" class="next">next</a><a href="index.html?g2_highlightId=5391" class="last">last</a>
+</div>
+<div class="first-and-previous">
+
+</div>
+</div>
+</div>
+<div class="gbBlock">
+<table id="gsThumbMatrix" width="100%">
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="bedroom1.jpg.html">
+<img src="../../d/5351-8/bedroom1.jpg" width="150" height="113" class="giThumbnail" alt="bedroom1"/>
+</a>
+</div>
+
+<p class="giTitle">
+bedroom1
+</p>
+<p class="giDescription">
+bedroom1
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 03/06/2005
+</div>
+<div class="viewCount summary">
+Views: 76
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="bedroom2.jpg.html">
+<img src="../../d/5354-8/bedroom2.jpg" width="150" height="113" class="giThumbnail" alt="bedroom2"/>
+</a>
+</div>
+
+<p class="giTitle">
+bedroom2
+</p>
+<p class="giDescription">
+bedroom2
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 03/06/2006
+</div>
+<div class="viewCount summary">
+Views: 70
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="diningroom1.jpg.html">
+<img src="../../d/5356-8/diningroom1.jpg" width="150" height="113" class="giThumbnail" alt="diningroom1"/>
+</a>
+</div>
+
+<p class="giTitle">
+diningroom1
+</p>
+<p class="giDescription">
+diningroom1
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 03/06/2005
+</div>
+<div class="viewCount summary">
+Views: 75
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="diningroom2.jpg.html">
+<img src="../../d/5358-8/diningroom2.jpg" width="150" height="113" class="giThumbnail" alt="diningroom2"/>
+</a>
+</div>
+
+<p class="giTitle">
+diningroom2
+</p>
+<p class="giDescription">
+diningroom2
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 03/06/2005
+</div>
+<div class="viewCount summary">
+Views: 70
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="diningroom3.jpg.html">
+<img src="../../d/5360-8/diningroom3.jpg" width="150" height="113" class="giThumbnail" alt="diningroom3"/>
+</a>
+</div>
+
+<p class="giTitle">
+diningroom3
+</p>
+<p class="giDescription">
+diningroom3
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 03/06/2005
+</div>
+<div class="viewCount summary">
+Views: 69
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="doorways1.jpg.html">
+<img src="../../d/5362-8/doorways1.jpg" width="150" height="113" class="giThumbnail" alt="doorways1"/>
+</a>
+</div>
+
+<p class="giTitle">
+doorways1
+</p>
+<p class="giDescription">
+doorways1
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 03/06/2005
+</div>
+<div class="viewCount summary">
+Views: 70
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="doorways2.jpg.html">
+<img src="../../d/5364-8/doorways2.jpg" width="150" height="113" class="giThumbnail" alt="doorways2"/>
+</a>
+</div>
+
+<p class="giTitle">
+doorways2
+</p>
+<p class="giDescription">
+doorways2
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 03/06/2005
+</div>
+<div class="viewCount summary">
+Views: 74
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="doorways3.jpg.html">
+<img src="../../d/5366-8/doorways3.jpg" width="150" height="113" class="giThumbnail" alt="doorways3"/>
+</a>
+</div>
+
+<p class="giTitle">
+doorways3
+</p>
+<p class="giDescription">
+doorways3
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 03/06/2005
+</div>
+<div class="viewCount summary">
+Views: 74
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="doorways4.jpg.html">
+<img src="../../d/5368-8/doorways4.jpg" width="113" height="150" class="giThumbnail" alt="doorways4"/>
+</a>
+</div>
+
+<p class="giTitle">
+doorways4
+</p>
+<p class="giDescription">
+doorways4
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 03/06/2005
+</div>
+<div class="viewCount summary">
+Views: 74
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+    
+
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last no-previous">
+    <a href="index.html?g2_highlightId=5385" class="next">next</a><a href="index.html?g2_highlightId=5391" class="last">last</a>
+</div>
+<div class="first-and-previous">
+
+</div>
+</div>
+</div>
+<div id="gsPages" class="gbBlock gcBackground1">
+<div class="block-core-Pager">
+Page:
+<span>
+1
+</span>
+<span>
+<a href="index.html?g2_highlightId=5385">2</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5391">3</a>
+</span>
+</div>
+</div>
+
+  
+
+</div>
+</td>
+</tr>
+</table>
+<div id="gsFooter">
+</div>
+  </div>
+
+
+</body>
+</html>

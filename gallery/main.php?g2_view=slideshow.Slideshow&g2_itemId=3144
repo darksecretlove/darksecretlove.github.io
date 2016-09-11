@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+<title>Slideshow</title>
+<link rel="stylesheet" type="text/css" href="modules/core/data/gallery.css"/>
+<link rel="stylesheet" href="modules/slideshow/data/lytebox.css" type="text/css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="modules/icons/iconpacks/silk/icons.css"/>
+<script type="text/javascript" src="main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<script type="text/javascript" src="main.php?g2_view=core.CombinedJavascript&amp;g2_key=8426f33bae33fff44bfb9de02fd69fe2"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=3144" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<a style="display: none" href="d/3107-2/IMG_1338.jpg" rel="lyteshow[s]" title="IMG_1338 Santa Cruz Beach Boardwalk" id="a0">.</a>
+<a style="display: none" href="d/3111-2/IMG_1342.jpg" rel="lyteshow[s]" title="IMG_1342 Santa Cruz Beach Boardwalk" id="a1">.</a>
+<a style="display: none" href="d/3114-2/IMG_1348.jpg" rel="lyteshow[s]" title="IMG_1348 Santa Cruz Beach Boardwalk" id="a2">.</a>
+<a style="display: none" href="d/3117-2/IMG_1349.jpg" rel="lyteshow[s]" title="IMG_1349 Santa Cruz Beach Boardwalk" id="a3">.</a>
+<a style="display: none" href="d/3120-2/IMG_1353.jpg" rel="lyteshow[s]" title="IMG_1353 Santa Cruz Beach Boardwalk" id="a4">.</a>
+<a style="display: none" href="d/3123-2/IMG_1354.jpg" rel="lyteshow[s]" title="IMG_1354 Santa Cruz Beach Boardwalk" id="a5">.</a>
+<a style="display: none" href="d/3126-2/IMG_1355.jpg" rel="lyteshow[s]" title="IMG_1355 Santa Cruz Beach Boardwalk" id="a6">.</a>
+<a style="display: none" href="d/3129-2/IMG_1356.jpg" rel="lyteshow[s]" title="IMG_1356 Santa Cruz Beach Boardwalk" id="a7">.</a>
+<a style="display: none" href="d/3132-2/IMG_1357.jpg" rel="lyteshow[s]" title="IMG_1357 San Gregorio Beach" id="a8">.</a>
+<a style="display: none" href="d/3135-2/IMG_1360.jpg" rel="lyteshow[s]" title="IMG_1360 San Gregorio Beach" id="a9">.</a>
+<a style="display: none" href="d/3138-2/IMG_1361.jpg" rel="lyteshow[s]" title="IMG_1361 San Gregorio Beach" id="a10">.</a>
+<a style="display: none" href="d/3141-2/IMG_1368.jpg" rel="lyteshow[s]" title="IMG_1368 San Gregorio Beach" id="a11">.</a>
+<a style="display: none" href="d/3144-2/IMG_1374.jpg" rel="lyteshow[s]" title="IMG_1374 San Gregorio Beach" id="a12">.</a>
+<a style="display: none" href="d/3147-2/IMG_1376.jpg" rel="lyteshow[s]" title="IMG_1376 San Gregorio Beach" id="a13">.</a>
+<a style="display: none" href="d/3150-2/IMG_1378.jpg" rel="lyteshow[s]" title="IMG_1378 San Gregorio Beach" id="a14">.</a>
+<a style="display: none" href="d/3153-2/IMG_1379.jpg" rel="lyteshow[s]" title="IMG_1379 San Gregorio Beach" id="a15">.</a>
+<a style="display: none" href="d/3156-2/IMG_1394.jpg" rel="lyteshow[s]" title="IMG_1394 San Gregorio Beach" id="a16">.</a>
+<script type="text/javascript">
+function start(startElId) {
+var p=PicLensLite;
+p.setCallbacks({ onNoPlugins:function(){startLB(startElId)},
+onExit:function(){location.href='http://darksecretlove.com/gallery/sfbay/20070721/IMG_1374.jpg.html' }
+});
+p.setLiteURLs({ swf:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.DownloadPicLens&g2_file=swf&g2_v=1.3.1.14221' });
+p.start({ feedUrl:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.SlideshowMediaRss&g2_itemId=3144',
+guid:3144,
+pid:'2PWfB4lurT4g',
+delay:10
+});
+}
+
+function startLB(startElId) {
+if (typeof myLytebox != 'undefined') {
+myLytebox.slideInterval = 10000;
+myLytebox.resizeSpeed = 10;
+myLytebox.start(document.getElementById(startElId), true, false);
+setTimeout('goBackOnStop()', 1000);
+} else {
+setTimeout('startLB("' + startElId + '")', 1000);
+}
+}
+function goBackOnStop() {
+var el = document.getElementById('lbOverlay');
+if (el && el.style.display != 'none') {
+setTimeout('goBackOnStop()', 1000);
+} else {
+history.go(-1);
+}
+}
+
+YAHOO.util.Event.addListener(window, 'load', function() { start("a12"); }, false);
+</script>  </div>
+
+
+</body>
+</html>

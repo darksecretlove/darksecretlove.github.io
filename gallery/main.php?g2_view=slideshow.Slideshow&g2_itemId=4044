@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+<title>Slideshow</title>
+<link rel="stylesheet" type="text/css" href="modules/core/data/gallery.css"/>
+<link rel="stylesheet" href="modules/slideshow/data/lytebox.css" type="text/css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="modules/icons/iconpacks/silk/icons.css"/>
+<script type="text/javascript" src="main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<script type="text/javascript" src="main.php?g2_view=core.CombinedJavascript&amp;g2_key=8426f33bae33fff44bfb9de02fd69fe2"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=4044" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<a style="display: none" href="d/4026-2/IMG_0730.jpg" rel="lyteshow[s]" title="IMG_0730 IMG_0730" id="a0">.</a>
+<a style="display: none" href="d/4030-2/IMG_0731.jpg" rel="lyteshow[s]" title="IMG_0731 IMG_0731" id="a1">.</a>
+<a style="display: none" href="d/4032-2/IMG_0738.jpg" rel="lyteshow[s]" title="IMG_0738 IMG_0738" id="a2">.</a>
+<a style="display: none" href="d/4034-2/IMG_0739.jpg" rel="lyteshow[s]" title="IMG_0739 IMG_0739" id="a3">.</a>
+<a style="display: none" href="d/4036-2/IMG_0742.jpg" rel="lyteshow[s]" title="IMG_0742 IMG_0742" id="a4">.</a>
+<a style="display: none" href="d/4038-2/IMG_0746.jpg" rel="lyteshow[s]" title="IMG_0746 IMG_0746" id="a5">.</a>
+<a style="display: none" href="d/4040-2/IMG_0748.jpg" rel="lyteshow[s]" title="IMG_0748 IMG_0748" id="a6">.</a>
+<a style="display: none" href="d/4042-2/IMG_0749.jpg" rel="lyteshow[s]" title="IMG_0749 IMG_0749" id="a7">.</a>
+<a style="display: none" href="d/4044-2/IMG_0750.jpg" rel="lyteshow[s]" title="IMG_0750 IMG_0750" id="a8">.</a>
+<a style="display: none" href="d/4046-2/IMG_0751.jpg" rel="lyteshow[s]" title="IMG_0751 IMG_0751" id="a9">.</a>
+<a style="display: none" href="d/4048-2/IMG_0752.jpg" rel="lyteshow[s]" title="IMG_0752 IMG_0752" id="a10">.</a>
+<a style="display: none" href="d/4050-2/IMG_0753.jpg" rel="lyteshow[s]" title="IMG_0753 IMG_0753" id="a11">.</a>
+<a style="display: none" href="d/4052-2/IMG_0754.jpg" rel="lyteshow[s]" title="IMG_0754 IMG_0754" id="a12">.</a>
+<a style="display: none" href="d/4054-2/IMG_0755.jpg" rel="lyteshow[s]" title="IMG_0755 IMG_0755" id="a13">.</a>
+<a style="display: none" href="d/4056-2/IMG_0756.jpg" rel="lyteshow[s]" title="IMG_0756 IMG_0756" id="a14">.</a>
+<a style="display: none" href="d/4058-2/IMG_0757.jpg" rel="lyteshow[s]" title="IMG_0757 IMG_0757" id="a15">.</a>
+<a style="display: none" href="d/4060-2/IMG_0758.jpg" rel="lyteshow[s]" title="IMG_0758 IMG_0758" id="a16">.</a>
+<a style="display: none" href="d/4062-2/IMG_0759.jpg" rel="lyteshow[s]" title="IMG_0759 IMG_0759" id="a17">.</a>
+<a style="display: none" href="d/4064-2/IMG_0760.jpg" rel="lyteshow[s]" title="IMG_0760 IMG_0760" id="a18">.</a>
+<a style="display: none" href="d/4066-2/IMG_0761.jpg" rel="lyteshow[s]" title="IMG_0761 IMG_0761" id="a19">.</a>
+<a style="display: none" href="d/4068-2/IMG_0763.jpg" rel="lyteshow[s]" title="IMG_0763 IMG_0763" id="a20">.</a>
+<a style="display: none" href="d/4070-2/IMG_0764.jpg" rel="lyteshow[s]" title="IMG_0764 IMG_0764" id="a21">.</a>
+<a style="display: none" href="d/4072-2/IMG_0766.jpg" rel="lyteshow[s]" title="IMG_0766 IMG_0766" id="a22">.</a>
+<a style="display: none" href="d/4074-2/IMG_0767.jpg" rel="lyteshow[s]" title="IMG_0767 IMG_0767" id="a23">.</a>
+<a style="display: none" href="d/4076-2/IMG_0768.jpg" rel="lyteshow[s]" title="IMG_0768 IMG_0768" id="a24">.</a>
+<script type="text/javascript">
+function start(startElId) {
+var p=PicLensLite;
+p.setCallbacks({ onNoPlugins:function(){startLB(startElId)},
+onExit:function(){location.href='http://darksecretlove.com/gallery/bands/Jan07DropBlackSky/IMG_0750.jpg.html' }
+});
+p.setLiteURLs({ swf:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.DownloadPicLens&g2_file=swf&g2_v=1.3.1.14221' });
+p.start({ feedUrl:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.SlideshowMediaRss&g2_itemId=4044',
+guid:4044,
+pid:'2PWfB4lurT4g',
+delay:10
+});
+}
+
+function startLB(startElId) {
+if (typeof myLytebox != 'undefined') {
+myLytebox.slideInterval = 10000;
+myLytebox.resizeSpeed = 10;
+myLytebox.start(document.getElementById(startElId), true, false);
+setTimeout('goBackOnStop()', 1000);
+} else {
+setTimeout('startLB("' + startElId + '")', 1000);
+}
+}
+function goBackOnStop() {
+var el = document.getElementById('lbOverlay');
+if (el && el.style.display != 'none') {
+setTimeout('goBackOnStop()', 1000);
+} else {
+history.go(-1);
+}
+}
+
+YAHOO.util.Event.addListener(window, 'load', function() { start("a8"); }, false);
+</script>  </div>
+
+
+</body>
+</html>

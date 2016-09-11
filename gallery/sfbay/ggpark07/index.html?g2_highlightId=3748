@@ -1,0 +1,338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+var fileLoadingImage = "http://darksecretlove.com/gallery/modules/lightbox/images/loading.gif";
+var fileBottomNavCloseImage = "http://darksecretlove.com/gallery/modules/lightbox/images/closelabel.gif";
+var fileBottomNavZoomImage = "http://darksecretlove.com/gallery/modules/lightbox/images/expand.gif";
+</script>
+<link rel="stylesheet" type="text/css" href="../../modules/core/data/gallery.css"/>
+<link rel="stylesheet" type="text/css" href="../../modules/icons/iconpacks/silk/icons.css"/>
+<link rel="stylesheet" type="text/css" href="../../modules/lightbox/lightbox.css"/>
+<link rel="alternate" type="application/rss+xml" title="Photo RSS" href="../../main.php?g2_view=slideshow.SlideshowMediaRss&amp;g2_itemId=3732"/>
+<script type="text/javascript" src="../../main.php?g2_view=core.CombinedJavascript&amp;g2_key=1771dd8ae1cf59d4a6dffb396a481590"></script>
+<script type="text/javascript" src="../../modules/lightbox/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="../../main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Golden Gate Park, November 2007</title>
+<link rel="stylesheet" type="text/css" href="../../themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=3732" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<div id="gsHeader">
+<img src="../../themes/greypop/images/title.jpg" width="500" height="100" alt=""/>
+</div>
+<div id="gsNavBar" class="gcBorder1">
+<div class="gbSystemLinks">
+<span class="block-core-SystemLink">
+<a href="../../main.php?g2_view=slideshow.Slideshow&amp;g2_itemId=3732"> Slideshow </a>
+</span>
+<span class="block-core-SystemLink">
+<a href="http://darksecretlove.com/gallery/main.php?g2_view=core.UserAdmin&amp;g2_subView=core.UserLogin&amp;g2_return=%2Fgallery%2Fsfbay%2Fggpark07%2F">Login</a>
+</span>
+
+<span class="block-core-SystemLink">
+<a href="http://darksecretlove.com/gallery/main.php?g2_view=core.UserAdmin&amp;g2_subView=register.UserSelfRegistration&amp;g2_return=%2Fgallery%2Fsfbay%2Fggpark07%2F">Register</a>
+</span>
+
+
+
+</div>
+<div class="gbBreadCrumb">
+<div class="block-core-BreadCrumb">
+<a href="../../main.php?g2_highlightId=2803" class="BreadCrumb-1">
+Gallery</a>
+<a href="../index.html?g2_highlightId=3732" class="BreadCrumb-2">
+SF Bay Area</a>
+<span class="BreadCrumb-3">
+Golden Gate Park, November 2007</span>
+</div>
+</div>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td>
+<div id="gsContent" class="gcBorder1">
+<div class="gbBlock gcBackground1">
+<table style="width: 100%">
+<tr>
+<td>
+<h2> Golden Gate Park, November 2007 </h2>
+</td>
+</tr>
+</table>
+</div>
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last no-previous">
+    <a href="index.html?g2_highlightId=3790" class="next">next</a><a href="index.html?g2_highlightId=3853" class="last">last</a>
+</div>
+<div class="first-and-previous">
+
+</div>
+</div>
+</div>
+<div class="gbBlock">
+<table id="gsThumbMatrix" width="100%">
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_2141.jpg.html">
+<img src="../../d/3739-8/IMG_2141.jpg" width="150" height="100" class="giThumbnail" alt="IMG_2141"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_2141
+</p>
+<p class="giDescription">
+tea garden
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 11/23/2007
+</div>
+<div class="viewCount summary">
+Views: 67
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_2142.jpg.html">
+<img src="../../d/3743-8/IMG_2142.jpg" width="150" height="100" class="giThumbnail" alt="IMG_2142"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_2142
+</p>
+<p class="giDescription">
+tea garden
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 11/23/2007
+</div>
+<div class="viewCount summary">
+Views: 64
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_2143.jpg.html">
+<img src="../../d/3746-8/IMG_2143.jpg" width="150" height="100" class="giThumbnail" alt="IMG_2143"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_2143
+</p>
+<p class="giDescription">
+tea garden
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 11/23/2007
+</div>
+<div class="viewCount summary">
+Views: 61
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_2145.jpg.html">
+<img src="../../d/3749-8/IMG_2145.jpg" width="100" height="150" class="giThumbnail" alt="IMG_2145"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_2145
+</p>
+<p class="giDescription">
+tea garden
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 11/23/2007
+</div>
+<div class="viewCount summary">
+Views: 67
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_2146.jpg.html">
+<img src="../../d/3752-8/IMG_2146.jpg" width="150" height="100" class="giThumbnail" alt="IMG_2146"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_2146
+</p>
+<p class="giDescription">
+tea garden
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 11/23/2007
+</div>
+<div class="viewCount summary">
+Views: 64
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_2151.jpg.html">
+<img src="../../d/3755-8/IMG_2151.jpg" width="150" height="100" class="giThumbnail" alt="IMG_2151"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_2151
+</p>
+<p class="giDescription">
+golden gate park
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 11/23/2007
+</div>
+<div class="viewCount summary">
+Views: 66
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_2157.jpg.html">
+<img src="../../d/3758-8/IMG_2157.jpg" width="150" height="100" class="giThumbnail" alt="IMG_2157"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_2157
+</p>
+<p class="giDescription">
+golden gate park
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 11/23/2007
+</div>
+<div class="viewCount summary">
+Views: 69
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_2158.jpg.html">
+<img src="../../d/3761-8/IMG_2158.jpg" width="150" height="100" class="giThumbnail" alt="IMG_2158"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_2158
+</p>
+<p class="giDescription">
+golden gate park
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 11/23/2007
+</div>
+<div class="viewCount summary">
+Views: 69
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_2161.jpg.html">
+<img src="../../d/3764-8/IMG_2161.jpg" width="150" height="100" class="giThumbnail" alt="IMG_2161"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_2161
+</p>
+<p class="giDescription">
+botanical gardens
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 11/23/2007
+</div>
+<div class="viewCount summary">
+Views: 63
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+    
+
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last no-previous">
+    <a href="index.html?g2_highlightId=3790" class="next">next</a><a href="index.html?g2_highlightId=3853" class="last">last</a>
+</div>
+<div class="first-and-previous">
+
+</div>
+</div>
+</div>
+<div id="gsPages" class="gbBlock gcBackground1">
+<div class="block-core-Pager">
+Page:
+<span>
+1
+</span>
+<span>
+<a href="index.html?g2_highlightId=3790">2</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=3817">3</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=3844">4</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=3853">5</a>
+</span>
+</div>
+</div>
+
+  
+
+</div>
+</td>
+</tr>
+</table>
+<div id="gsFooter">
+</div>
+  </div>
+
+
+</body>
+</html>

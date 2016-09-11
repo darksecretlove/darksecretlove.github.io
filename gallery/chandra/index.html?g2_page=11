@@ -1,0 +1,339 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+var fileLoadingImage = "http://darksecretlove.com/gallery/modules/lightbox/images/loading.gif";
+var fileBottomNavCloseImage = "http://darksecretlove.com/gallery/modules/lightbox/images/closelabel.gif";
+var fileBottomNavZoomImage = "http://darksecretlove.com/gallery/modules/lightbox/images/expand.gif";
+</script>
+<link rel="stylesheet" type="text/css" href="../modules/core/data/gallery.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/icons/iconpacks/silk/icons.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/lightbox/lightbox.css"/>
+<link rel="alternate" type="application/rss+xml" title="Photo RSS" href="../main.php?g2_view=slideshow.SlideshowMediaRss&amp;g2_itemId=4906"/>
+<script type="text/javascript" src="../main.php?g2_view=core.CombinedJavascript&amp;g2_key=1771dd8ae1cf59d4a6dffb396a481590"></script>
+<script type="text/javascript" src="../modules/lightbox/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="../main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Chandra's studio</title>
+<link rel="stylesheet" type="text/css" href="../themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=4906" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<div id="gsHeader">
+<img src="../themes/greypop/images/title.jpg" width="500" height="100" alt=""/>
+</div>
+<div id="gsNavBar" class="gcBorder1">
+<div class="gbSystemLinks">
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=slideshow.Slideshow&amp;g2_itemId=4906"> Slideshow </a>
+</span>
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=core.UserLogin&amp;g2_return=%252Fgallery%252Fchandra%252F%253Fg2_page%253D11">Login</a>
+</span>
+
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=register.UserSelfRegistration&amp;g2_return=%252Fgallery%252Fchandra%252F%253Fg2_page%253D11">Register</a>
+</span>
+
+
+
+</div>
+<div class="gbBreadCrumb">
+<div class="block-core-BreadCrumb">
+<a href="../main.php?g2_highlightId=4906" class="BreadCrumb-1">
+Gallery</a>
+<span class="BreadCrumb-2">
+Chandra's studio</span>
+</div>
+</div>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td>
+<div id="gsContent" class="gcBorder1">
+<div class="gbBlock gcBackground1">
+<table style="width: 100%">
+<tr>
+<td>
+<h2> Chandra's studio </h2>
+<p class="giDescription">
+Chandra Garsson's studio
+</p>
+</td>
+</tr>
+</table>
+</div>
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=5231" class="next">next</a><a href="index.html?g2_highlightId=5259" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=4945" class="first">first</a>    <a href="index.html?g2_highlightId=5186" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div class="gbBlock">
+<table id="gsThumbMatrix" width="100%">
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Homeless+Mother+and+Children---detail.jpg.html">
+<img src="../d/5189-8/Homeless+Mother+and+Children---detail.jpg" width="100" height="150" class="giThumbnail" alt="Homeless Mother and Children---detail"/>
+</a>
+</div>
+
+<p class="giTitle">
+Homeless Mother and Children---detail
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 104
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Homeless+Mother+and+Children.jpg.html">
+<img src="../d/5191-8/Homeless+Mother+and+Children.jpg" width="100" height="150" class="giThumbnail" alt="Homeless Mother and Children"/>
+</a>
+</div>
+
+<p class="giTitle">
+Homeless Mother and Children
+</p>
+<p class="giDescription">
+Homeless Mother With Her Children, Cyclops in the background... Heard on Public Radio today: &quot;The problem with the world is that it demands originality, and when it finds it, has no idea what to do with it.&quot;  -John Powers, on Terry Gross, referi
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 110
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Universal+Child+and+Hes+Really+Not+to+Blame.jpg.html">
+<img src="../d/5194-7/Universal+Child+and+Hes+Really+Not+to+Blame.jpg" width="150" height="150" class="giThumbnail" alt="Universal Child and He's Really Not to Blame"/>
+</a>
+</div>
+
+<p class="giTitle">
+Universal Child and He's Really Not to Blame
+</p>
+<p class="giDescription">
+Universal Child, Thanks to Donovan for the title ('Universal Soldier'), owned by Stephanie JT Russell, Oakland. Click on image for comments on book, Insomnia (Awakening)
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 133
+</div>
+<div class="summary-comment summary">
+Comments: 5
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Caution.jpg.html">
+<img src="../d/5201-8/Caution.jpg" width="150" height="99" class="giThumbnail" alt="Caution"/>
+</a>
+</div>
+
+<p class="giTitle">
+Caution
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 104
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Illuminated+Mother+and+Child.jpg.html">
+<img src="../d/5203-8/Illuminated+Mother+and+Child.jpg" width="101" height="150" class="giThumbnail" alt="Illuminated Mother and Child"/>
+</a>
+</div>
+
+<p class="giTitle">
+Illuminated Mother and Child
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 103
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Bite.jpg.html">
+<img src="../d/5205-8/Bite.jpg" width="150" height="92" class="giThumbnail" alt="Bite"/>
+</a>
+</div>
+
+<p class="giTitle">
+Bite
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 113
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Totem+II---detail.jpg.html">
+<img src="../d/5208-8/Totem+II---detail.jpg" width="99" height="150" class="giThumbnail" alt="Totem II---detail"/>
+</a>
+</div>
+
+<p class="giTitle">
+Totem II---detail
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 124
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Totem+2---detail.jpg.html">
+<img src="../d/5210-8/Totem+2---detail.jpg" width="100" height="150" class="giThumbnail" alt="Totem 2---detail"/>
+</a>
+</div>
+
+<p class="giTitle">
+Totem 2---detail
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 117
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Caution---detail+with+Pegasus.jpg.html">
+<img src="../d/5212-8/Caution---detail+with+Pegasus.jpg" width="100" height="150" class="giThumbnail" alt="Caution---detail with Pegasus"/>
+</a>
+</div>
+
+<p class="giTitle">
+Caution---detail with Pegasus
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 113
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+    
+
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=5231" class="next">next</a><a href="index.html?g2_highlightId=5259" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=4945" class="first">first</a>    <a href="index.html?g2_highlightId=5186" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div id="gsPages" class="gbBlock gcBackground1">
+<div class="block-core-Pager">
+Page:
+<span>
+<a href="index.html?g2_page=1">1</a>
+</span>
+<span>
+...
+</span>
+<span>
+<a href="index.html?g2_highlightId=5139">8</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5162">9</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5186">10</a>
+</span>
+<span>
+11
+</span>
+<span>
+<a href="index.html?g2_highlightId=5231">12</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5252">13</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5259">14</a>
+</span>
+</div>
+</div>
+
+  
+
+</div>
+</td>
+</tr>
+</table>
+<div id="gsFooter">
+</div>
+  </div>
+
+
+</body>
+</html>

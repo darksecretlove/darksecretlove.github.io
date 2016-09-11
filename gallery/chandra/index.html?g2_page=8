@@ -1,0 +1,360 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+var fileLoadingImage = "http://darksecretlove.com/gallery/modules/lightbox/images/loading.gif";
+var fileBottomNavCloseImage = "http://darksecretlove.com/gallery/modules/lightbox/images/closelabel.gif";
+var fileBottomNavZoomImage = "http://darksecretlove.com/gallery/modules/lightbox/images/expand.gif";
+</script>
+<link rel="stylesheet" type="text/css" href="../modules/core/data/gallery.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/icons/iconpacks/silk/icons.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/lightbox/lightbox.css"/>
+<link rel="alternate" type="application/rss+xml" title="Photo RSS" href="../main.php?g2_view=slideshow.SlideshowMediaRss&amp;g2_itemId=4906"/>
+<script type="text/javascript" src="../main.php?g2_view=core.CombinedJavascript&amp;g2_key=1771dd8ae1cf59d4a6dffb396a481590"></script>
+<script type="text/javascript" src="../modules/lightbox/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="../main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Chandra's studio</title>
+<link rel="stylesheet" type="text/css" href="../themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=4906" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<div id="gsHeader">
+<img src="../themes/greypop/images/title.jpg" width="500" height="100" alt=""/>
+</div>
+<div id="gsNavBar" class="gcBorder1">
+<div class="gbSystemLinks">
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=slideshow.Slideshow&amp;g2_itemId=4906"> Slideshow </a>
+</span>
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=core.UserLogin&amp;g2_return=%252Fgallery%252Fchandra%252F%253Fg2_page%253D8">Login</a>
+</span>
+
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=register.UserSelfRegistration&amp;g2_return=%252Fgallery%252Fchandra%252F%253Fg2_page%253D8">Register</a>
+</span>
+
+
+
+</div>
+<div class="gbBreadCrumb">
+<div class="block-core-BreadCrumb">
+<a href="../main.php?g2_highlightId=4906" class="BreadCrumb-1">
+Gallery</a>
+<span class="BreadCrumb-2">
+Chandra's studio</span>
+</div>
+</div>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td>
+<div id="gsContent" class="gcBorder1">
+<div class="gbBlock gcBackground1">
+<table style="width: 100%">
+<tr>
+<td>
+<h2> Chandra's studio </h2>
+<p class="giDescription">
+Chandra Garsson's studio
+</p>
+</td>
+</tr>
+</table>
+</div>
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=5162" class="next">next</a><a href="index.html?g2_highlightId=5259" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=4945" class="first">first</a>    <a href="index.html?g2_highlightId=5116" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div class="gbBlock">
+<table id="gsThumbMatrix" width="100%">
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Maya+II.jpg.html">
+<img src="../d/5119-8/Maya+II.jpg" width="100" height="150" class="giThumbnail" alt="Maya II"/>
+</a>
+</div>
+
+<p class="giTitle">
+Maya II
+</p>
+<p class="giDescription">
+Maya II,  owned by Anne Cameron, Los Angeles. The captured butterfly in glass (I found it already dead) is for the illusion that we are free or that we last. The first illusion can be to some degree worked with, and that is transcendance.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 127
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Adam+and+Eve+and+the+Fuscia+of+Eden.jpg.html">
+<img src="../d/5121-8/Adam+and+Eve+and+the+Fuscia+of+Eden.jpg" width="100" height="150" class="giThumbnail" alt="Adam and Eve and the Fuscia of Eden"/>
+</a>
+</div>
+
+<p class="giTitle">
+Adam and Eve and the Fuscia of Eden
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 139
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Lachesis---detail+1_001.jpg.html">
+<img src="../d/5124-8/Lachesis---detail+1_001.jpg" width="101" height="150" class="giThumbnail" alt="Lachesis---detail 1"/>
+</a>
+</div>
+
+<p class="giTitle">
+Lachesis---detail 1
+</p>
+<p class="giDescription">
+Art is the gift that gives at least three times. 1st, the artist gives her gift of art to the world. 2nd, the patron supports the artist, while giving a home to the art, for the world. 3rd the artist, who is alm
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 150
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Lachesis---detail+2.jpg.html">
+<img src="../d/5127-8/Lachesis---detail+2.jpg" width="150" height="110" class="giThumbnail" alt="Lachesis---detail 2"/>
+</a>
+</div>
+
+<p class="giTitle">
+Lachesis---detail 2
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 127
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Lachesis---detail+3.jpg.html">
+<img src="../d/5129-8/Lachesis---detail+3.jpg" width="103" height="150" class="giThumbnail" alt="Lachesis---detail 3"/>
+</a>
+</div>
+
+<p class="giTitle">
+Lachesis---detail 3
+</p>
+<p class="giDescription">
+Lachesis
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 123
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Lachesis---+Second+Sister.jpg.html">
+<img src="../d/5131-8/Lachesis---+Second+Sister.jpg" width="107" height="150" class="giThumbnail" alt="Lachesis--- Second Sister"/>
+</a>
+</div>
+
+<p class="giTitle">
+Lachesis--- Second Sister
+</p>
+<p class="giDescription">
+Lachesis, Third (middle) Sister of Hope and Fear, me. This work is owned by Aki Sasaki.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 145
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Emerald+Butterfly+Kiss.jpg.html">
+<img src="../d/5133-8/Emerald+Butterfly+Kiss.jpg" width="100" height="150" class="giThumbnail" alt="Emerald Butterfly Kiss"/>
+</a>
+</div>
+
+<p class="giTitle">
+Emerald Butterfly Kiss
+</p>
+<p class="giDescription">
+Emerald Butterfly Kiss,.....&quot;But wait,... there's more. I see rainbow shards on the ceiling...&quot; -Pedro Moreno
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 149
+</div>
+<div class="summary-comment summary">
+Comments: 2
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Barbie+Crucifiction.jpg.html">
+<img src="../d/5137-9/Barbie+Crucifiction.jpg" width="99" height="150" class="giThumbnail" alt="Barbie Crucifiction"/>
+</a>
+</div>
+
+<p class="giTitle">
+Barbie Crucifiction
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 136
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Studio+installation+10+with+More+Ancient+Daphne.jpg.html">
+<img src="../d/5140-8/Studio+installation+10+with+More+Ancient+Daphne.jpg" width="117" height="150" class="giThumbnail" alt="Studio installation 10 with More Ancient Daphne"/>
+</a>
+</div>
+
+<p class="giTitle">
+Studio installation 10 with More Ancient Daphne
+</p>
+<p class="giDescription">
+For Joyce Carol Oates, for writing We Were the Mulvaneys, among her other 10,000  great works.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 128
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+    
+
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=5162" class="next">next</a><a href="index.html?g2_highlightId=5259" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=4945" class="first">first</a>    <a href="index.html?g2_highlightId=5116" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div id="gsPages" class="gbBlock gcBackground1">
+<div class="block-core-Pager">
+Page:
+<span>
+<a href="index.html?g2_page=1">1</a>
+</span>
+<span>
+...
+</span>
+<span>
+<a href="index.html?g2_highlightId=5071">5</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5091">6</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5116">7</a>
+</span>
+<span>
+8
+</span>
+<span>
+<a href="index.html?g2_highlightId=5162">9</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5186">10</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5211">11</a>
+</span>
+<span>
+...
+</span>
+<span>
+<a href="index.html?g2_highlightId=5259">14</a>
+</span>
+</div>
+</div>
+
+  
+
+</div>
+</td>
+</tr>
+</table>
+<div id="gsFooter">
+</div>
+  </div>
+
+
+</body>
+</html>

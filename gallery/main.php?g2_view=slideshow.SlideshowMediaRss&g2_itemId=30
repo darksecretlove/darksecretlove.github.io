@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>  </title>
+<link>http://darksecretlove.com/gallery/main.php</link>
+<description>  </description>
+<language>  </language>
+    
+<item>
+<title type="html">me1</title>
+<link>http://darksecretlove.com/gallery/test/me1.jpg.html</link>
+<guid>30</guid>
+<media:thumbnail url="http://darksecretlove.com/gallery/d/31-8/me1.jpg" height="150" width="100" type="image/jpeg"/>
+<media:content url="http://darksecretlove.com/gallery/d/30-1/me1.jpg" height="1024" width="683" type="image/jpeg"/>
+<description type="html">test</description>
+</item>
+</channel>
+</rss>

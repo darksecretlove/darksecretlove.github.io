@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>  </title>
+<link>http://darksecretlove.com/gallery/main.php</link>
+<description>  </description>
+<language>  </language>
+    
+<item>
+<title type="html">IMG_0091</title>
+<link>http://darksecretlove.com/gallery/house/house-during3/IMG_0091.jpg.html</link>
+<guid>5418</guid>
+<media:thumbnail url="http://darksecretlove.com/gallery/d/5419-8/IMG_0091.jpg" height="113" width="150" type="image/jpeg"/>
+<media:content url="http://darksecretlove.com/gallery/d/5418-2/IMG_0091.jpg" height="375" width="500" type="image/jpeg"/>
+<description type="html">Primered outside.  Bye bye fugly green trim.</description>
+</item>
+<item>
+<title type="html">IMG_0092</title>
+<link>http://darksecretlove.com/gallery/house/house-during3/IMG_0092.jpg.html</link>
+<guid>5421</guid>
+<media:thumbnail url="http://darksecretlove.com/gallery/d/5422-8/IMG_0092.jpg" height="113" width="150" type="image/jpeg"/>
+<media:content url="http://darksecretlove.com/gallery/d/5421-2/IMG_0092.jpg" height="375" width="500" type="image/jpeg"/>
+<description type="html">Bye bye carport.</description>
+</item>
+<item>
+<title type="html">IMG_0093</title>
+<link>http://darksecretlove.com/gallery/house/house-during3/IMG_0093.jpg.html</link>
+<guid>5423</guid>
+<media:thumbnail url="http://darksecretlove.com/gallery/d/5424-8/IMG_0093.jpg" height="113" width="150" type="image/jpeg"/>
+<media:content url="http://darksecretlove.com/gallery/d/5423-2/IMG_0093.jpg" height="375" width="500" type="image/jpeg"/>
+<description type="html">Where the carport used to be.</description>
+</item>
+</channel>
+</rss>

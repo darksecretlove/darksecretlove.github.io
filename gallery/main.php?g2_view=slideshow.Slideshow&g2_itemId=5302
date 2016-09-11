@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+<title>Slideshow</title>
+<link rel="stylesheet" type="text/css" href="modules/core/data/gallery.css"/>
+<link rel="stylesheet" href="modules/slideshow/data/lytebox.css" type="text/css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="modules/icons/iconpacks/silk/icons.css"/>
+<script type="text/javascript" src="main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<script type="text/javascript" src="main.php?g2_view=core.CombinedJavascript&amp;g2_key=8426f33bae33fff44bfb9de02fd69fe2"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=5302" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<a style="display: none" href="d/5269-2/34_G.jpg" rel="lyteshow[s]" title="34_G This is &lt;i&gt;so&lt;/i&gt; interior cover art.&lt;br /&gt;
+Probably the best photo of the lot." id="a0">.</a>
+<a style="display: none" href="d/5272-2/01_G.jpg" rel="lyteshow[s]" title="01_G Fugitives from the mental hospital." id="a1">.</a>
+<a style="display: none" href="d/5275-2/02_G.jpg" rel="lyteshow[s]" title="02_G Abandoned buildings look pretty, but they smell like pee." id="a2">.</a>
+<a style="display: none" href="d/5277-2/03_G.jpg" rel="lyteshow[s]" title="03_G A little freaky lookin&#039;." id="a3">.</a>
+<a style="display: none" href="d/5280-2/04_G.jpg" rel="lyteshow[s]" title="04_G We kept crackin&#039; up, and Kristin told us we were supposed to be serious rock stars." id="a4">.</a>
+<a style="display: none" href="d/5283-2/06_G.jpg" rel="lyteshow[s]" title="06_G The &lt;i&gt;Once Upon a Time in Mexico&lt;/i&gt; axiom:&lt;br /&gt;
+The fewer eyes you have, the more badass you are." id="a5">.</a>
+<a style="display: none" href="d/5287-2/08_G.jpg" rel="lyteshow[s]" title="08_G I&#039;d say we need to get Finn a voicebox so he can do a &lt;a href=&quot;http://www.hawking.org.uk/home/hindex.html&quot; rel=&quot;nofollow&quot;&gt;Stephen Hawking&lt;/a&gt; impression,&lt;br /&gt;
+but then he&#039;d hurt me and make me say uncle." id="a6">.</a>
+<a style="display: none" href="d/5290-2/09_G.jpg" rel="lyteshow[s]" title="09_G Bride of Jason." id="a7">.</a>
+<a style="display: none" href="d/5292-2/10_G.jpg" rel="lyteshow[s]" title="10_G Codename: &lt;i&gt;Apathetic Youth&lt;/i&gt; slowly levitates the roof with his vast telekinetic powers." id="a8">.</a>
+<a style="display: none" href="d/5295-2/17_G.jpg" rel="lyteshow[s]" title="17_G Marge Simpson, Don King, Jason Lindgren." id="a9">.</a>
+<a style="display: none" href="d/5298-2/18_G.jpg" rel="lyteshow[s]" title="18_G Everybody say HOOO-OOOH!" id="a10">.</a>
+<a style="display: none" href="d/5300-2/19_G.jpg" rel="lyteshow[s]" title="19_G We &lt;i&gt;so&lt;/i&gt; need to photoshop lightning bolts from his fingertips." id="a11">.</a>
+<a style="display: none" href="d/5302-2/25_G.jpg" rel="lyteshow[s]" title="25_G I didn&#039;t get a turn in the straitjacket.&lt;br /&gt;
+Reminded me too much of my childhood." id="a12">.</a>
+<a style="display: none" href="d/5305-2/26_G.jpg" rel="lyteshow[s]" title="26_G On the lam." id="a13">.</a>
+<a style="display: none" href="d/5308-2/29_G.jpg" rel="lyteshow[s]" title="29_G There sure are a lot of these, aren&#039;t there." id="a14">.</a>
+<a style="display: none" href="d/5311-2/30_G.jpg" rel="lyteshow[s]" title="30_G Color.&lt;br /&gt;
+Mmm." id="a15">.</a>
+<a style="display: none" href="d/5313-2/31_G.jpg" rel="lyteshow[s]" title="31_G It&#039;s cool how Finn is like a &lt;a href=&quot;http://www.patricknagel.com/html/gallery.html&quot; rel=&quot;nofollow&quot;&gt;Nagel&lt;/a&gt; piece." id="a16">.</a>
+<a style="display: none" href="d/5315-2/32_G.jpg" rel="lyteshow[s]" title="32_G I feel a draft.&lt;br /&gt;
+I smell a wumpus." id="a17">.</a>
+<a style="display: none" href="d/5317-2/33_G.jpg" rel="lyteshow[s]" title="33_G Yeah, that was funny, wasn&#039;t it.&lt;br /&gt;
+I crack me up." id="a18">.</a>
+<script type="text/javascript">
+function start(startElId) {
+var p=PicLensLite;
+p.setCallbacks({ onNoPlugins:function(){startLB(startElId)},
+onExit:function(){location.href='http://darksecretlove.com/gallery/oct2003/25_G.jpg.html' }
+});
+p.setLiteURLs({ swf:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.DownloadPicLens&g2_file=swf&g2_v=1.3.1.14221' });
+p.start({ feedUrl:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.SlideshowMediaRss&g2_itemId=5302',
+guid:5302,
+pid:'2PWfB4lurT4g',
+delay:10
+});
+}
+
+function startLB(startElId) {
+if (typeof myLytebox != 'undefined') {
+myLytebox.slideInterval = 10000;
+myLytebox.resizeSpeed = 10;
+myLytebox.start(document.getElementById(startElId), true, false);
+setTimeout('goBackOnStop()', 1000);
+} else {
+setTimeout('startLB("' + startElId + '")', 1000);
+}
+}
+function goBackOnStop() {
+var el = document.getElementById('lbOverlay');
+if (el && el.style.display != 'none') {
+setTimeout('goBackOnStop()', 1000);
+} else {
+history.go(-1);
+}
+}
+
+YAHOO.util.Event.addListener(window, 'load', function() { start("a12"); }, false);
+</script>  </div>
+
+
+</body>
+</html>

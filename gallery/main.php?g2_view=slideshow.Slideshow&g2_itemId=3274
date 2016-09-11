@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+<title>Slideshow</title>
+<link rel="stylesheet" type="text/css" href="modules/core/data/gallery.css"/>
+<link rel="stylesheet" href="modules/slideshow/data/lytebox.css" type="text/css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="modules/icons/iconpacks/silk/icons.css"/>
+<script type="text/javascript" src="main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<script type="text/javascript" src="main.php?g2_view=core.CombinedJavascript&amp;g2_key=8426f33bae33fff44bfb9de02fd69fe2"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=3274" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<a style="display: none" href="d/3165-2/IMG_1144.jpg" rel="lyteshow[s]" title="IMG_1144 IMG_1144" id="a0">.</a>
+<a style="display: none" href="d/3169-2/IMG_1145.jpg" rel="lyteshow[s]" title="IMG_1145 IMG_1145" id="a1">.</a>
+<a style="display: none" href="d/3172-2/IMG_1147.jpg" rel="lyteshow[s]" title="IMG_1147 IMG_1147" id="a2">.</a>
+<a style="display: none" href="d/3175-2/IMG_1148.jpg" rel="lyteshow[s]" title="IMG_1148 IMG_1148" id="a3">.</a>
+<a style="display: none" href="d/3178-2/IMG_1149.jpg" rel="lyteshow[s]" title="IMG_1149 IMG_1149" id="a4">.</a>
+<a style="display: none" href="d/3181-2/IMG_1151.jpg" rel="lyteshow[s]" title="IMG_1151 IMG_1151" id="a5">.</a>
+<a style="display: none" href="d/3184-2/IMG_1153.jpg" rel="lyteshow[s]" title="IMG_1153 IMG_1153" id="a6">.</a>
+<a style="display: none" href="d/3187-2/IMG_1161.jpg" rel="lyteshow[s]" title="IMG_1161 IMG_1161" id="a7">.</a>
+<a style="display: none" href="d/3190-2/IMG_1169.jpg" rel="lyteshow[s]" title="IMG_1169 IMG_1169" id="a8">.</a>
+<a style="display: none" href="d/3193-2/IMG_1170.jpg" rel="lyteshow[s]" title="IMG_1170 IMG_1170" id="a9">.</a>
+<a style="display: none" href="d/3196-2/IMG_1174.jpg" rel="lyteshow[s]" title="IMG_1174 IMG_1174" id="a10">.</a>
+<a style="display: none" href="d/3199-2/IMG_1175.jpg" rel="lyteshow[s]" title="IMG_1175 IMG_1175" id="a11">.</a>
+<a style="display: none" href="d/3202-2/IMG_1178.jpg" rel="lyteshow[s]" title="IMG_1178 IMG_1178" id="a12">.</a>
+<a style="display: none" href="d/3205-2/IMG_1180.jpg" rel="lyteshow[s]" title="IMG_1180 IMG_1180" id="a13">.</a>
+<a style="display: none" href="d/3208-2/IMG_1181.jpg" rel="lyteshow[s]" title="IMG_1181 IMG_1181" id="a14">.</a>
+<a style="display: none" href="d/3211-2/IMG_1183.jpg" rel="lyteshow[s]" title="IMG_1183 IMG_1183" id="a15">.</a>
+<a style="display: none" href="d/3214-2/IMG_1184.jpg" rel="lyteshow[s]" title="IMG_1184 IMG_1184" id="a16">.</a>
+<a style="display: none" href="d/3217-2/IMG_1185.jpg" rel="lyteshow[s]" title="IMG_1185 IMG_1185" id="a17">.</a>
+<a style="display: none" href="d/3220-2/IMG_1186.jpg" rel="lyteshow[s]" title="IMG_1186 IMG_1186" id="a18">.</a>
+<a style="display: none" href="d/3223-2/IMG_1187.jpg" rel="lyteshow[s]" title="IMG_1187 IMG_1187" id="a19">.</a>
+<a style="display: none" href="d/3226-2/IMG_1189.jpg" rel="lyteshow[s]" title="IMG_1189 IMG_1189" id="a20">.</a>
+<a style="display: none" href="d/3229-2/IMG_1190.jpg" rel="lyteshow[s]" title="IMG_1190 IMG_1190" id="a21">.</a>
+<a style="display: none" href="d/3232-2/IMG_1191.jpg" rel="lyteshow[s]" title="IMG_1191 IMG_1191" id="a22">.</a>
+<a style="display: none" href="d/3235-2/IMG_1192.jpg" rel="lyteshow[s]" title="IMG_1192 IMG_1192" id="a23">.</a>
+<a style="display: none" href="d/3238-2/IMG_1196.jpg" rel="lyteshow[s]" title="IMG_1196 IMG_1196" id="a24">.</a>
+<script type="text/javascript">
+function start(startElId) {
+var p=PicLensLite;
+p.setCallbacks({ onNoPlugins:function(){startLB(startElId)},
+onExit:function(){location.href='http://darksecretlove.com/gallery/sfbay/20070704/IMG_1144.jpg.html' }
+});
+p.setLiteURLs({ swf:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.DownloadPicLens&g2_file=swf&g2_v=1.3.1.14221' });
+p.start({ feedUrl:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.SlideshowMediaRss&g2_itemId=3274',
+guid:3165,
+pid:'2PWfB4lurT4g',
+delay:10
+});
+}
+
+function startLB(startElId) {
+if (typeof myLytebox != 'undefined') {
+myLytebox.slideInterval = 10000;
+myLytebox.resizeSpeed = 10;
+myLytebox.start(document.getElementById(startElId), true, false);
+setTimeout('goBackOnStop()', 1000);
+} else {
+setTimeout('startLB("' + startElId + '")', 1000);
+}
+}
+function goBackOnStop() {
+var el = document.getElementById('lbOverlay');
+if (el && el.style.display != 'none') {
+setTimeout('goBackOnStop()', 1000);
+} else {
+history.go(-1);
+}
+}
+
+YAHOO.util.Event.addListener(window, 'load', function() { start("a0"); }, false);
+</script>  </div>
+
+
+</body>
+</html>

@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+var fileLoadingImage = "http://darksecretlove.com/gallery/modules/lightbox/images/loading.gif";
+var fileBottomNavCloseImage = "http://darksecretlove.com/gallery/modules/lightbox/images/closelabel.gif";
+var fileBottomNavZoomImage = "http://darksecretlove.com/gallery/modules/lightbox/images/expand.gif";
+</script>
+<link rel="stylesheet" type="text/css" href="../../modules/core/data/gallery.css"/>
+<link rel="stylesheet" type="text/css" href="../../modules/icons/iconpacks/silk/icons.css"/>
+<link rel="stylesheet" type="text/css" href="../../modules/lightbox/lightbox.css"/>
+<link rel="alternate" type="application/rss+xml" title="Photo RSS" href="../../main.php?g2_view=slideshow.SlideshowMediaRss&amp;g2_itemId=4763"/>
+<script type="text/javascript" src="../../main.php?g2_view=core.CombinedJavascript&amp;g2_key=1771dd8ae1cf59d4a6dffb396a481590"></script>
+<script type="text/javascript" src="../../modules/lightbox/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="../../main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Tuesday: Kona</title>
+<link rel="stylesheet" type="text/css" href="../../themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=4763" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<div id="gsHeader">
+<img src="../../themes/greypop/images/title.jpg" width="500" height="100" alt=""/>
+</div>
+<div id="gsNavBar" class="gcBorder1">
+<div class="gbSystemLinks">
+<span class="block-core-SystemLink">
+<a href="../../main.php?g2_view=slideshow.Slideshow&amp;g2_itemId=4763"> Slideshow </a>
+</span>
+<span class="block-core-SystemLink">
+<a href="http://darksecretlove.com/gallery/main.php?g2_view=core.UserAdmin&amp;g2_subView=core.UserLogin&amp;g2_return=%2Fgallery%2Fhawaii06%2Fhawaii06tuesday%2F">Login</a>
+</span>
+
+<span class="block-core-SystemLink">
+<a href="http://darksecretlove.com/gallery/main.php?g2_view=core.UserAdmin&amp;g2_subView=register.UserSelfRegistration&amp;g2_return=%2Fgallery%2Fhawaii06%2Fhawaii06tuesday%2F">Register</a>
+</span>
+
+
+
+</div>
+<div class="gbBreadCrumb">
+<div class="block-core-BreadCrumb">
+<a href="../../main.php?g2_highlightId=4504" class="BreadCrumb-1">
+Gallery</a>
+<a href="../index.html?g2_highlightId=4763" class="BreadCrumb-2">
+Hawai'i '06</a>
+<span class="BreadCrumb-3">
+Tuesday: Kona</span>
+</div>
+</div>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td>
+<div id="gsContent" class="gcBorder1">
+<div class="gbBlock gcBackground1">
+<table style="width: 100%">
+<tr>
+<td>
+<h2> Tuesday: Kona </h2>
+</td>
+</tr>
+</table>
+</div>
+<div class="gbBlock">
+<table id="gsThumbMatrix" width="100%">
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_0569.jpg.html">
+<img src="../../d/4770-8/IMG_0569.jpg" width="150" height="99" class="giThumbnail" alt="IMG_0569"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_0569
+</p>
+<p class="giDescription">
+IMG_0569
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 12/26/2006
+</div>
+<div class="viewCount summary">
+Views: 46
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_0570.jpg.html">
+<img src="../../d/4773-8/IMG_0570.jpg" width="150" height="100" class="giThumbnail" alt="IMG_0570"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_0570
+</p>
+<p class="giDescription">
+IMG_0570
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 12/26/2006
+</div>
+<div class="viewCount summary">
+Views: 44
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_0571.jpg.html">
+<img src="../../d/4775-8/IMG_0571.jpg" width="150" height="100" class="giThumbnail" alt="IMG_0571"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_0571
+</p>
+<p class="giDescription">
+IMG_0571
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 12/26/2006
+</div>
+<div class="viewCount summary">
+Views: 45
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_0572.jpg.html">
+<img src="../../d/4777-8/IMG_0572.jpg" width="150" height="100" class="giThumbnail" alt="IMG_0572"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_0572
+</p>
+<p class="giDescription">
+IMG_0572
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 12/26/2006
+</div>
+<div class="viewCount summary">
+Views: 46
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="IMG_0574.jpg.html">
+<img src="../../d/4779-8/IMG_0574.jpg" width="150" height="100" class="giThumbnail" alt="IMG_0574"/>
+</a>
+</div>
+
+<p class="giTitle">
+IMG_0574
+</p>
+<p class="giDescription">
+IMG_0574
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 12/26/2006
+</div>
+<div class="viewCount summary">
+Views: 49
+</div>
+</div>
+</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+</div>
+    
+
+<div id="gsPages" class="gbBlock gcBackground1">
+<div class="block-core-Pager">
+Page:
+<span>
+1
+</span>
+</div>
+</div>
+
+  
+
+</div>
+</td>
+</tr>
+</table>
+<div id="gsFooter">
+</div>
+  </div>
+
+
+</body>
+</html>

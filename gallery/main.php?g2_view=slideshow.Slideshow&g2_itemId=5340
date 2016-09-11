@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+<title>Slideshow</title>
+<link rel="stylesheet" type="text/css" href="modules/core/data/gallery.css"/>
+<link rel="stylesheet" href="modules/slideshow/data/lytebox.css" type="text/css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="modules/icons/iconpacks/silk/icons.css"/>
+<script type="text/javascript" src="main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<script type="text/javascript" src="main.php?g2_view=core.CombinedJavascript&amp;g2_key=8426f33bae33fff44bfb9de02fd69fe2"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=5340" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<a style="display: none" href="d/5330-2/IMG_0068.jpg" rel="lyteshow[s]" title="IMG_0068 living room" id="a0">.</a>
+<a style="display: none" href="d/5334-2/IMG_0070.jpg" rel="lyteshow[s]" title="IMG_0070 dining room" id="a1">.</a>
+<a style="display: none" href="d/5336-2/IMG_0069.jpg" rel="lyteshow[s]" title="IMG_0069 studio" id="a2">.</a>
+<a style="display: none" href="d/5338-2/IMG_0071.jpg" rel="lyteshow[s]" title="IMG_0071 kitchen" id="a3">.</a>
+<a style="display: none" href="d/5340-2/IMG_0072.jpg" rel="lyteshow[s]" title="IMG_0072 outside1" id="a4">.</a>
+<a style="display: none" href="d/5342-2/IMG_0074.jpg" rel="lyteshow[s]" title="IMG_0074 outside2" id="a5">.</a>
+<script type="text/javascript">
+function start(startElId) {
+var p=PicLensLite;
+p.setCallbacks({ onNoPlugins:function(){startLB(startElId)},
+onExit:function(){location.href='http://darksecretlove.com/gallery/house/house-during1/IMG_0072.jpg.html' }
+});
+p.setLiteURLs({ swf:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.DownloadPicLens&g2_file=swf&g2_v=1.3.1.14221' });
+p.start({ feedUrl:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.SlideshowMediaRss&g2_itemId=5340',
+guid:5340,
+pid:'2PWfB4lurT4g',
+delay:10
+});
+}
+
+function startLB(startElId) {
+if (typeof myLytebox != 'undefined') {
+myLytebox.slideInterval = 10000;
+myLytebox.resizeSpeed = 10;
+myLytebox.start(document.getElementById(startElId), true, false);
+setTimeout('goBackOnStop()', 1000);
+} else {
+setTimeout('startLB("' + startElId + '")', 1000);
+}
+}
+function goBackOnStop() {
+var el = document.getElementById('lbOverlay');
+if (el && el.style.display != 'none') {
+setTimeout('goBackOnStop()', 1000);
+} else {
+history.go(-1);
+}
+}
+
+YAHOO.util.Event.addListener(window, 'load', function() { start("a4"); }, false);
+</script>  </div>
+
+
+</body>
+</html>

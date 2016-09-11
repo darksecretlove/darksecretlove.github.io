@@ -1,0 +1,366 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+var fileLoadingImage = "http://darksecretlove.com/gallery/modules/lightbox/images/loading.gif";
+var fileBottomNavCloseImage = "http://darksecretlove.com/gallery/modules/lightbox/images/closelabel.gif";
+var fileBottomNavZoomImage = "http://darksecretlove.com/gallery/modules/lightbox/images/expand.gif";
+</script>
+<link rel="stylesheet" type="text/css" href="../modules/core/data/gallery.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/icons/iconpacks/silk/icons.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/lightbox/lightbox.css"/>
+<link rel="alternate" type="application/rss+xml" title="Photo RSS" href="../main.php?g2_view=slideshow.SlideshowMediaRss&amp;g2_itemId=4906"/>
+<script type="text/javascript" src="../main.php?g2_view=core.CombinedJavascript&amp;g2_key=1771dd8ae1cf59d4a6dffb396a481590"></script>
+<script type="text/javascript" src="../modules/lightbox/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="../main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Chandra's studio</title>
+<link rel="stylesheet" type="text/css" href="../themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=4906" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<div id="gsHeader">
+<img src="../themes/greypop/images/title.jpg" width="500" height="100" alt=""/>
+</div>
+<div id="gsNavBar" class="gcBorder1">
+<div class="gbSystemLinks">
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=slideshow.Slideshow&amp;g2_itemId=4906"> Slideshow </a>
+</span>
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=core.UserLogin&amp;g2_return=%252Fgallery%252Fchandra%252F%253Fg2_page%253D5%2526">Login</a>
+</span>
+
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=register.UserSelfRegistration&amp;g2_return=%252Fgallery%252Fchandra%252F%253Fg2_page%253D5%2526">Register</a>
+</span>
+
+
+
+</div>
+<div class="gbBreadCrumb">
+<div class="block-core-BreadCrumb">
+<a href="../main.php?g2_highlightId=4906" class="BreadCrumb-1">
+Gallery</a>
+<span class="BreadCrumb-2">
+Chandra's studio</span>
+</div>
+</div>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td>
+<div id="gsContent" class="gcBorder1">
+<div class="gbBlock gcBackground1">
+<table style="width: 100%">
+<tr>
+<td>
+<h2> Chandra's studio </h2>
+<p class="giDescription">
+Chandra Garsson's studio
+</p>
+</td>
+</tr>
+</table>
+</div>
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=5091" class="next">next</a><a href="index.html?g2_highlightId=5259" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=4945" class="first">first</a>    <a href="index.html?g2_highlightId=5045" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div class="gbBlock">
+<table id="gsThumbMatrix" width="100%">
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Four+Seasons.jpg.html">
+<img src="../d/5049-8/Four+Seasons.jpg" width="150" height="99" class="giThumbnail" alt="Four Seasons"/>
+</a>
+</div>
+
+<p class="giTitle">
+Four Seasons
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 175
+</div>
+<div class="summary-comment summary">
+Comments: 2
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Psyche---Poems+written+by+my+mother---artists+book.jpg.html">
+<img src="../d/5052-8/Psyche---Poems+written+by+my+mother---artists+book.jpg" width="150" height="98" class="giThumbnail" alt="Psyche---Poems written by my mother---artists book"/>
+</a>
+</div>
+
+<p class="giTitle">
+Psyche---Poems written by my mother---artists book
+</p>
+<p class="giDescription">
+For Diana Shapiro and Candace Workman
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 192
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Crime---detail+of+a+Misdemeaner.jpg.html">
+<img src="../d/5055-8/Crime---detail+of+a+Misdemeaner.jpg" width="150" height="100" class="giThumbnail" alt="Crime---detail of a Misdemeaner"/>
+</a>
+</div>
+
+<p class="giTitle">
+Crime---detail of a Misdemeaner
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 166
+</div>
+<div class="summary-comment summary">
+Comments: 2
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Peeping+Tom.jpg.html">
+<img src="../d/5058-8/Peeping+Tom.jpg" width="100" height="150" class="giThumbnail" alt="Peeping Tom"/>
+</a>
+</div>
+
+<p class="giTitle">
+Peeping Tom
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 221
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Adam+and+Eve+Sharing+a+Fig.jpg.html">
+<img src="../d/5061-8/Adam+and+Eve+Sharing+a+Fig.jpg" width="98" height="150" class="giThumbnail" alt="Adam and Eve Sharing a Fig"/>
+</a>
+</div>
+
+<p class="giTitle">
+Adam and Eve Sharing a Fig
+</p>
+<p class="giDescription">
+Adam and Eve of the Fig Leaf.....owned by Maureen Anglin, Washington D.C.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 184
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Adam+and+Eve+of+One+Heart.jpg.html">
+<img src="../d/5064-8/Adam+and+Eve+of+One+Heart.jpg" width="150" height="134" class="giThumbnail" alt="Adam and Eve Of One Heart"/>
+</a>
+</div>
+
+<p class="giTitle">
+Adam and Eve Of One Heart
+</p>
+<p class="giDescription">
+Adam and Eve Share a Heart as Apple Floats Below.....for Noelle Gillies and Robert Brown, San Jose, California
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 222
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Both+Tender+and+Explosive.jpg.html">
+<img src="../d/5067-8/Both+Tender+and+Explosive.jpg" width="150" height="105" class="giThumbnail" alt="Both Tender and Explosive"/>
+</a>
+</div>
+
+<p class="giTitle">
+Both Tender and Explosive
+</p>
+<p class="giDescription">
+The Ascension of the Assending and Assonant Infants
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 163
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Spring+and+Autumn.jpg.html">
+<img src="../d/5069-8/Spring+and+Autumn.jpg" width="150" height="101" class="giThumbnail" alt="Spring and Autumn"/>
+</a>
+</div>
+
+<p class="giTitle">
+Spring and Autumn
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 177
+</div>
+<div class="summary-comment summary">
+Comments: 2
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Timepiece.jpg.html">
+<img src="../d/5072-8/Timepiece.jpg" width="150" height="106" class="giThumbnail" alt="Timepiece"/>
+</a>
+</div>
+
+<p class="giTitle">
+Timepiece
+</p>
+<p class="giDescription">
+Let Us Go Then, You And I, with a note on John Keats and Jane Campion
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 155
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+    
+
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=5091" class="next">next</a><a href="index.html?g2_highlightId=5259" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=4945" class="first">first</a>    <a href="index.html?g2_highlightId=5045" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div id="gsPages" class="gbBlock gcBackground1">
+<div class="block-core-Pager">
+Page:
+<span>
+<a href="index.html?g2_page=1">1</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=4981">2</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5013">3</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5045">4</a>
+</span>
+<span>
+5
+</span>
+<span>
+<a href="index.html?g2_highlightId=5091">6</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5116">7</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5139">8</a>
+</span>
+<span>
+...
+</span>
+<span>
+<a href="index.html?g2_highlightId=5259">14</a>
+</span>
+</div>
+</div>
+
+  
+
+</div>
+</td>
+</tr>
+</table>
+<div id="gsFooter">
+</div>
+  </div>
+
+
+</body>
+</html>

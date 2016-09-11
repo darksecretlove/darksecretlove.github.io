@@ -1,0 +1,360 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<script type="text/javascript">
+var fileLoadingImage = "http://darksecretlove.com/gallery/modules/lightbox/images/loading.gif";
+var fileBottomNavCloseImage = "http://darksecretlove.com/gallery/modules/lightbox/images/closelabel.gif";
+var fileBottomNavZoomImage = "http://darksecretlove.com/gallery/modules/lightbox/images/expand.gif";
+</script>
+<link rel="stylesheet" type="text/css" href="../modules/core/data/gallery.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/icons/iconpacks/silk/icons.css"/>
+<link rel="stylesheet" type="text/css" href="../modules/lightbox/lightbox.css"/>
+<link rel="alternate" type="application/rss+xml" title="Photo RSS" href="../main.php?g2_view=slideshow.SlideshowMediaRss&amp;g2_itemId=4906"/>
+<script type="text/javascript" src="../main.php?g2_view=core.CombinedJavascript&amp;g2_key=1771dd8ae1cf59d4a6dffb396a481590"></script>
+<script type="text/javascript" src="../modules/lightbox/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="../main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Chandra's studio</title>
+<link rel="stylesheet" type="text/css" href="../themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=4906" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<div id="gsHeader">
+<img src="../themes/greypop/images/title.jpg" width="500" height="100" alt=""/>
+</div>
+<div id="gsNavBar" class="gcBorder1">
+<div class="gbSystemLinks">
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=slideshow.Slideshow&amp;g2_itemId=4906"> Slideshow </a>
+</span>
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=core.UserLogin&amp;g2_return=%252Fgallery%252Fchandra%252F%253Fg2_page%253D4%2526">Login</a>
+</span>
+
+<span class="block-core-SystemLink">
+<a href="../main.php?g2_view=core.UserAdmin&amp;g2_subView=register.UserSelfRegistration&amp;g2_return=%252Fgallery%252Fchandra%252F%253Fg2_page%253D4%2526">Register</a>
+</span>
+
+
+
+</div>
+<div class="gbBreadCrumb">
+<div class="block-core-BreadCrumb">
+<a href="../main.php?g2_highlightId=4906" class="BreadCrumb-1">
+Gallery</a>
+<span class="BreadCrumb-2">
+Chandra's studio</span>
+</div>
+</div>
+</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td>
+<div id="gsContent" class="gcBorder1">
+<div class="gbBlock gcBackground1">
+<table style="width: 100%">
+<tr>
+<td>
+<h2> Chandra's studio </h2>
+<p class="giDescription">
+Chandra Garsson's studio
+</p>
+</td>
+</tr>
+</table>
+</div>
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=5071" class="next">next</a><a href="index.html?g2_highlightId=5259" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=4945" class="first">first</a>    <a href="index.html?g2_highlightId=5013" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div class="gbBlock">
+<table id="gsThumbMatrix" width="100%">
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Birth.jpg.html">
+<img src="../d/5018-8/Birth.jpg" width="150" height="102" class="giThumbnail" alt="Birth"/>
+</a>
+</div>
+
+<p class="giTitle">
+Birth
+</p>
+<p class="giDescription">
+Chatterbox (foreground)... This piece is one critiqued in review by Harry Roche in comments (click on image for comments) in last image on last page.
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 169
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Studio+installation+4.jpg.html">
+<img src="../d/5021-8/Studio+installation+4.jpg" width="150" height="101" class="giThumbnail" alt="Studio installation 4"/>
+</a>
+</div>
+
+<p class="giTitle">
+Studio installation 4
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 174
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Little+Sister.jpg.html">
+<img src="../d/5024-8/Little+Sister.jpg" width="106" height="150" class="giThumbnail" alt="Little Sister"/>
+</a>
+</div>
+
+<p class="giTitle">
+Little Sister
+</p>
+<p class="giDescription">
+Pregnant With the Idea of Mother, Soon to Birth the Reality of Self
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 183
+</div>
+<div class="summary-comment summary">
+Comments: 3
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Aaron.jpg.html">
+<img src="../d/5028-8/Aaron.jpg" width="101" height="150" class="giThumbnail" alt="Aaron"/>
+</a>
+</div>
+
+<p class="giTitle">
+Aaron
+</p>
+<p class="giDescription">
+For Aaron
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 181
+</div>
+<div class="summary-comment summary">
+Comments: 4
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Book+of+Knowledge.jpg.html">
+<img src="../d/5033-8/Book+of+Knowledge.jpg" width="113" height="150" class="giThumbnail" alt="Book of Knowledge"/>
+</a>
+</div>
+
+<p class="giTitle">
+Book of Knowledge
+</p>
+<p class="giDescription">
+Fledgling Ideas in a Dangerous World
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 157
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Autumn---+one+of+four.jpg.html">
+<img src="../d/5035-8/Autumn---+one+of+four.jpg" width="101" height="150" class="giThumbnail" alt="Autumn--- one of four"/>
+</a>
+</div>
+
+<p class="giTitle">
+Autumn--- one of four
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 180
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Winter---one+of+four.jpg.html">
+<img src="../d/5038-8/Winter---one+of+four.jpg" width="100" height="150" class="giThumbnail" alt="Winter---one of four"/>
+</a>
+</div>
+
+<p class="giTitle">
+Winter---one of four
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 192
+</div>
+<div class="summary-comment summary">
+Comments: 2
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Summer+and+Winter.jpg.html">
+<img src="../d/5042-8/Summer+and+Winter.jpg" width="150" height="101" class="giThumbnail" alt="Summer and Winter"/>
+</a>
+</div>
+
+<p class="giTitle">
+Summer and Winter
+</p>
+<p class="giDescription">
+Summer (the top of the head of a doll emerging from the mouth), Winter
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 196
+</div>
+<div class="summary-comment summary">
+Comments: 2
+</div>
+</div>
+</td>
+<td class="giItemCell"
+style="width: 33%">
+<div>
+<a href="Summer---one+of+four.jpg.html">
+<img src="../d/5046-8/Summer---one+of+four.jpg" width="98" height="150" class="giThumbnail" alt="Summer---one of four"/>
+</a>
+</div>
+
+<p class="giTitle">
+Summer---one of four
+</p>
+<div class="block-core-ItemInfo giInfo">
+<div class="date summary">
+Date: 02/12/2004
+</div>
+<div class="viewCount summary">
+Views: 176
+</div>
+<div class="summary-comment summary">
+Comments: 1
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+    
+
+<div class="gbBlock gcBackground2 gbNavigator">
+<div class="block-core-Navigator">
+<div class="next-and-last">
+    <a href="index.html?g2_highlightId=5071" class="next">next</a><a href="index.html?g2_highlightId=5259" class="last">last</a>
+</div>
+<div class="first-and-previous">
+<a href="index.html?g2_highlightId=4945" class="first">first</a>    <a href="index.html?g2_highlightId=5013" class="previous">previous</a>
+</div>
+</div>
+</div>
+<div id="gsPages" class="gbBlock gcBackground1">
+<div class="block-core-Pager">
+Page:
+<span>
+<a href="index.html?g2_page=1">1</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=4981">2</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5013">3</a>
+</span>
+<span>
+4
+</span>
+<span>
+<a href="index.html?g2_highlightId=5071">5</a>
+</span>
+<span>
+<a href="index.html?g2_highlightId=5091">6</a>
+</span>
+<span>
+...
+</span>
+<span>
+<a href="index.html?g2_highlightId=5259">14</a>
+</span>
+</div>
+</div>
+
+  
+
+</div>
+</td>
+</tr>
+</table>
+<div id="gsFooter">
+</div>
+  </div>
+
+
+</body>
+</html>

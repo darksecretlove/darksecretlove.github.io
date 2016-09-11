@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+<title>Slideshow</title>
+<link rel="stylesheet" type="text/css" href="modules/core/data/gallery.css"/>
+<link rel="stylesheet" href="modules/slideshow/data/lytebox.css" type="text/css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="modules/icons/iconpacks/silk/icons.css"/>
+<script type="text/javascript" src="main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<script type="text/javascript" src="main.php?g2_view=core.CombinedJavascript&amp;g2_key=8426f33bae33fff44bfb9de02fd69fe2"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=4661" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<a style="display: none" href="d/4648-2/IMG_0614.jpg" rel="lyteshow[s]" title="IMG_0614 IMG_0614" id="a0">.</a>
+<a style="display: none" href="d/4651-2/IMG_0615.jpg" rel="lyteshow[s]" title="IMG_0615 IMG_0615" id="a1">.</a>
+<a style="display: none" href="d/4653-2/IMG_0616.jpg" rel="lyteshow[s]" title="IMG_0616 IMG_0616" id="a2">.</a>
+<a style="display: none" href="d/4655-2/IMG_0617.jpg" rel="lyteshow[s]" title="IMG_0617 IMG_0617" id="a3">.</a>
+<a style="display: none" href="d/4657-2/IMG_0618.jpg" rel="lyteshow[s]" title="IMG_0618 IMG_0618" id="a4">.</a>
+<a style="display: none" href="d/4659-2/IMG_0619.jpg" rel="lyteshow[s]" title="IMG_0619 IMG_0619" id="a5">.</a>
+<a style="display: none" href="d/4661-2/IMG_0620.jpg" rel="lyteshow[s]" title="IMG_0620 IMG_0620" id="a6">.</a>
+<a style="display: none" href="d/4663-2/IMG_0621.jpg" rel="lyteshow[s]" title="IMG_0621 IMG_0621" id="a7">.</a>
+<a style="display: none" href="d/4665-2/IMG_0622.jpg" rel="lyteshow[s]" title="IMG_0622 IMG_0622" id="a8">.</a>
+<a style="display: none" href="d/4667-2/IMG_0623.jpg" rel="lyteshow[s]" title="IMG_0623 IMG_0623" id="a9">.</a>
+<a style="display: none" href="d/4669-2/IMG_0624.jpg" rel="lyteshow[s]" title="IMG_0624 IMG_0624" id="a10">.</a>
+<a style="display: none" href="d/4671-2/IMG_0626.jpg" rel="lyteshow[s]" title="IMG_0626 IMG_0626" id="a11">.</a>
+<a style="display: none" href="d/4673-2/IMG_0627.jpg" rel="lyteshow[s]" title="IMG_0627 IMG_0627" id="a12">.</a>
+<a style="display: none" href="d/4675-2/IMG_0628.jpg" rel="lyteshow[s]" title="IMG_0628 IMG_0628" id="a13">.</a>
+<a style="display: none" href="d/4677-2/IMG_0630.jpg" rel="lyteshow[s]" title="IMG_0630 IMG_0630" id="a14">.</a>
+<a style="display: none" href="d/4679-2/IMG_0631.jpg" rel="lyteshow[s]" title="IMG_0631 IMG_0631" id="a15">.</a>
+<a style="display: none" href="d/4681-2/IMG_0632.jpg" rel="lyteshow[s]" title="IMG_0632 IMG_0632" id="a16">.</a>
+<a style="display: none" href="d/4683-2/IMG_0633.jpg" rel="lyteshow[s]" title="IMG_0633 IMG_0633" id="a17">.</a>
+<a style="display: none" href="d/4685-2/IMG_0634.jpg" rel="lyteshow[s]" title="IMG_0634 IMG_0634" id="a18">.</a>
+<a style="display: none" href="d/4687-2/IMG_0635.jpg" rel="lyteshow[s]" title="IMG_0635 IMG_0635" id="a19">.</a>
+<a style="display: none" href="d/4689-2/IMG_0636.jpg" rel="lyteshow[s]" title="IMG_0636 IMG_0636" id="a20">.</a>
+<a style="display: none" href="d/4691-2/IMG_0637.jpg" rel="lyteshow[s]" title="IMG_0637 IMG_0637" id="a21">.</a>
+<script type="text/javascript">
+function start(startElId) {
+var p=PicLensLite;
+p.setCallbacks({ onNoPlugins:function(){startLB(startElId)},
+onExit:function(){location.href='http://darksecretlove.com/gallery/hawaii06/hawaii06volcano/IMG_0620.jpg.html' }
+});
+p.setLiteURLs({ swf:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.DownloadPicLens&g2_file=swf&g2_v=1.3.1.14221' });
+p.start({ feedUrl:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.SlideshowMediaRss&g2_itemId=4661',
+guid:4661,
+pid:'2PWfB4lurT4g',
+delay:10
+});
+}
+
+function startLB(startElId) {
+if (typeof myLytebox != 'undefined') {
+myLytebox.slideInterval = 10000;
+myLytebox.resizeSpeed = 10;
+myLytebox.start(document.getElementById(startElId), true, false);
+setTimeout('goBackOnStop()', 1000);
+} else {
+setTimeout('startLB("' + startElId + '")', 1000);
+}
+}
+function goBackOnStop() {
+var el = document.getElementById('lbOverlay');
+if (el && el.style.display != 'none') {
+setTimeout('goBackOnStop()', 1000);
+} else {
+history.go(-1);
+}
+}
+
+YAHOO.util.Event.addListener(window, 'load', function() { start("a6"); }, false);
+</script>  </div>
+
+
+</body>
+</html>

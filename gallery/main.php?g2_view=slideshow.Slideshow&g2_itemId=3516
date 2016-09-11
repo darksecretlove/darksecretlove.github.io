@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+<title>Slideshow</title>
+<link rel="stylesheet" type="text/css" href="modules/core/data/gallery.css"/>
+<link rel="stylesheet" href="modules/slideshow/data/lytebox.css" type="text/css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="modules/icons/iconpacks/silk/icons.css"/>
+<script type="text/javascript" src="main.php?g2_view=slideshow.DownloadPicLens&amp;g2_file=js&amp;g2_v=1.3.1.14221"></script>
+<script type="text/javascript" src="main.php?g2_view=core.CombinedJavascript&amp;g2_key=8426f33bae33fff44bfb9de02fd69fe2"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="themes/greypop/theme.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://darksecretlove.com/gallery/main.php?g2_view=rss.SimpleRender&amp;g2_itemId=3516" />
+</head>
+<body class="gallery">
+<div id="gallery">
+<a style="display: none" href="d/3493-2/IMG_0212.jpg" rel="lyteshow[s]" title="IMG_0212 A view of the Pacific Ocean from San Francisco" id="a0">.</a>
+<a style="display: none" href="d/3496-2/IMG_0213.jpg" rel="lyteshow[s]" title="IMG_0213 " id="a1">.</a>
+<a style="display: none" href="d/3498-2/IMG_0214.jpg" rel="lyteshow[s]" title="IMG_0214 " id="a2">.</a>
+<a style="display: none" href="d/3500-2/IMG_0216.jpg" rel="lyteshow[s]" title="IMG_0216 " id="a3">.</a>
+<a style="display: none" href="d/3502-2/IMG_0219.jpg" rel="lyteshow[s]" title="IMG_0219 Sutro bath ruins" id="a4">.</a>
+<a style="display: none" href="d/3504-2/IMG_0222.jpg" rel="lyteshow[s]" title="IMG_0222 " id="a5">.</a>
+<a style="display: none" href="d/3506-2/IMG_0223.jpg" rel="lyteshow[s]" title="IMG_0223 " id="a6">.</a>
+<a style="display: none" href="d/3508-2/IMG_0224.jpg" rel="lyteshow[s]" title="IMG_0224 " id="a7">.</a>
+<a style="display: none" href="d/3510-2/IMG_0227.jpg" rel="lyteshow[s]" title="IMG_0227 Parents and Monterey Cypress trees" id="a8">.</a>
+<a style="display: none" href="d/3512-2/IMG_0228.jpg" rel="lyteshow[s]" title="IMG_0228 " id="a9">.</a>
+<a style="display: none" href="d/3514-2/IMG_0229.jpg" rel="lyteshow[s]" title="IMG_0229 " id="a10">.</a>
+<a style="display: none" href="d/3516-2/IMG_0230.jpg" rel="lyteshow[s]" title="IMG_0230 " id="a11">.</a>
+<a style="display: none" href="d/3518-2/IMG_0231.jpg" rel="lyteshow[s]" title="IMG_0231 " id="a12">.</a>
+<a style="display: none" href="d/3520-2/IMG_0234.jpg" rel="lyteshow[s]" title="IMG_0234 " id="a13">.</a>
+<a style="display: none" href="d/3522-2/IMG_0238.jpg" rel="lyteshow[s]" title="IMG_0238 Some bridge" id="a14">.</a>
+<a style="display: none" href="d/3524-2/IMG_0239.jpg" rel="lyteshow[s]" title="IMG_0239 " id="a15">.</a>
+<a style="display: none" href="d/3526-2/IMG_0240.jpg" rel="lyteshow[s]" title="IMG_0240 " id="a16">.</a>
+<a style="display: none" href="d/3528-2/IMG_0241.jpg" rel="lyteshow[s]" title="IMG_0241 " id="a17">.</a>
+<a style="display: none" href="d/3530-2/IMG_0243.jpg" rel="lyteshow[s]" title="IMG_0243 " id="a18">.</a>
+<a style="display: none" href="d/3532-2/IMG_0249.jpg" rel="lyteshow[s]" title="IMG_0249 " id="a19">.</a>
+<a style="display: none" href="d/3534-2/IMG_0250.jpg" rel="lyteshow[s]" title="IMG_0250 " id="a20">.</a>
+<a style="display: none" href="d/3536-2/IMG_0251.jpg" rel="lyteshow[s]" title="IMG_0251 " id="a21">.</a>
+<a style="display: none" href="d/3538-2/IMG_0255.jpg" rel="lyteshow[s]" title="IMG_0255 " id="a22">.</a>
+<a style="display: none" href="d/3540-2/IMG_0258.jpg" rel="lyteshow[s]" title="IMG_0258 " id="a23">.</a>
+<a style="display: none" href="d/3542-2/IMG_0259.jpg" rel="lyteshow[s]" title="IMG_0259 " id="a24">.</a>
+<script type="text/javascript">
+function start(startElId) {
+var p=PicLensLite;
+p.setCallbacks({ onNoPlugins:function(){startLB(startElId)},
+onExit:function(){location.href='http://darksecretlove.com/gallery/sfbay/thanksgiving06/IMG_0230.jpg.html' }
+});
+p.setLiteURLs({ swf:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.DownloadPicLens&g2_file=swf&g2_v=1.3.1.14221' });
+p.start({ feedUrl:'http://darksecretlove.com/gallery/main.php?g2_view=slideshow.SlideshowMediaRss&g2_itemId=3516',
+guid:3516,
+pid:'2PWfB4lurT4g',
+delay:10
+});
+}
+
+function startLB(startElId) {
+if (typeof myLytebox != 'undefined') {
+myLytebox.slideInterval = 10000;
+myLytebox.resizeSpeed = 10;
+myLytebox.start(document.getElementById(startElId), true, false);
+setTimeout('goBackOnStop()', 1000);
+} else {
+setTimeout('startLB("' + startElId + '")', 1000);
+}
+}
+function goBackOnStop() {
+var el = document.getElementById('lbOverlay');
+if (el && el.style.display != 'none') {
+setTimeout('goBackOnStop()', 1000);
+} else {
+history.go(-1);
+}
+}
+
+YAHOO.util.Event.addListener(window, 'load', function() { start("a11"); }, false);
+</script>  </div>
+
+
+</body>
+</html>
